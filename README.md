@@ -1,4 +1,4 @@
-# Birthday
+# Symfony Template
 A Symfony 7.2.1 project running under Docker with PHP 8.2.
 
 ## Installation
